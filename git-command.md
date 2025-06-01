@@ -1,5 +1,5 @@
 # Initialize and empty git repository 
-'''git init''' 
+```git init```
 
 # Check the status of git 
-'''git status'''
+```git status```
