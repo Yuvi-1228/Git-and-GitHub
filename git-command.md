@@ -1,4 +1,5 @@
 # Initialize and empty git repository 
+<<<<<<< HEAD
 '''
 git init
 ''' 
@@ -48,3 +49,15 @@ git commit -m "yourmsg"
 
 
 
+=======
+``` 
+git init
+ ```
+
+# Check the status of git 
+```
+git status
+```
+
+
+>>>>>>> d70dcad98e5582f2f1ce88cfb082c02773b0dbf3
