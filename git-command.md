@@ -1,5 +1,4 @@
 # Initialize and empty git repository 
-<<<<<<< HEAD
 '''
 git init
 ''' 
@@ -41,6 +40,31 @@ git push origin --delete branchname
 git commit -m "yourmsg"
 
 ```
+# restore
+## If you want to restore delete file 
+```
+git restore filename
+
+```
+
+## If you do not want to track file or add file or go back to untrack stage 
+```
+git restore --staged filename
+
+```
+
+# To check Log 
+```
+git log 
+
+```
+## If you want tio see log without pager view then 
+```
+git --no-pager log
+```
+
+
+
 
 
 
@@ -60,4 +84,3 @@ git status
 ```
 
 
->>>>>>> d70dcad98e5582f2f1ce88cfb082c02773b0dbf3
